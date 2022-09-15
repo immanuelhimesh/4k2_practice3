@@ -1,3 +1,4 @@
 "Day 2 of session with new folder and new file"
 "2nd file for 2nd commit"
 "3rd message"
+"4th file"
